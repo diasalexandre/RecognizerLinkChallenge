@@ -1,0 +1,25 @@
+<xml>
+	<item>
+	  <id>16599221</id>
+	  <store>Loja do Joao</store>
+	  <title>Produto de Teste 1</title>
+	  <price>100.00</price>
+	  <link>http://www.lojadojoao.com.br/p/16599221</link>
+	</item>
+
+	<item>
+	  <id>12345</id>
+	  <store>Loja da Maria</store>
+	  <title>Produto Legal</title>
+	  <price>230.00</price>
+	  <link>http://www.lojadamaria.com.br/perfume-the-one-sport-masculino-edt/t/2/campanha_id/+752+</link>
+	</item>	
+
+	<item>
+	  <id>8595</id>
+	  <store>Loja do Ze</store>
+	  <title>Produto Sem Nome</title>
+	  <price>140.00</price>
+	  <link>http://www.lojadoze.com.br/p/chapeu-caipira-de-palha-desfiado/campanha_id/34</link>
+	</item>	
+</xml>
